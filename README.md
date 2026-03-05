@@ -19,3 +19,8 @@ python task_manager_file.py
 ## Future improvements
 - Add graphical interface
 - Add task deadlines
+
+## Version 2 ideas
+
+- Add task priority
+- Add colored CLI interface
