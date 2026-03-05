@@ -15,3 +15,7 @@ Simple task manager built with Python.
 ## How to run
 
 python task_manager_file.py
+
+## Future improvements
+- Add graphical interface
+- Add task deadlines
